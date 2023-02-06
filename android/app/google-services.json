@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359100818985",
+    "project_id": "otpone-90e6e",
+    "storage_bucket": "otpone-90e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359100818985:android:d8c15f0923e5e0e0d69e38",
+        "android_client_info": {
+          "package_name": "com.one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359100818985-0sml8lfv9fmihhv2uepcr3b629r9nnh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDApyZHkFtGNLdkqner7r0M7JbtSThT5Xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359100818985-0sml8lfv9fmihhv2uepcr3b629r9nnh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
